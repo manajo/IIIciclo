@@ -1,29 +1,36 @@
+
+
+
 .contenedor{
 	width:900px;
 	margin: 0 auto;
+	background-color:green;
+	margin-left:200px;
+				}
 }
 .cabecera{
 	background: blue;
 }
 .cuerpo{
 	width: 560px;
-	background: orange;
+	background: 	#99FF00;
 	height: 300px;
 	float: left;
 	padding: 20px;
 }
 .menu li:hover {
-	background: blue;
+	background: #8B008B;
+	
 }
 .sidebar{
 	width: 300px;
-	background: purple;
-	height:300px ;
+	background: #FF6600;
+	height:340px ;
 	float: left;
 }	
 .pie{
-	height: 50px;
-	background: black;
+	height: 100px;
+	background: 	#6699FF;
 }
 .menu ul {
 	padding: 0;
@@ -32,14 +39,19 @@
 	display: block;
 	width: 179px;
 	height: 20px;
-	background: red;
+	background:#FF0000;
 	float: left;
 	text-align: center;
 	font-weight: bold;
 	padding: 7px 0;
 	border-left: 1px solid #fff;
+
+
+
+
 }
+
 .menu li a {
 	text-decoration: none;
-	color: white;
+	color: 	#FF00FF;
 }
